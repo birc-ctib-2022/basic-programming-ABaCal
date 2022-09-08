@@ -1,8 +1,8 @@
 
-# this asks the user for a number and turns the answer
+# this asks the user for a number and turns the answer6
 # into an integer
 n = int(input("How many times should I loop? "))
 
 # Now, print "Hello, World!" n times.
 for x in range(0,n):
-     print ("Hello, world!")
+    print ("Hello, world!")
